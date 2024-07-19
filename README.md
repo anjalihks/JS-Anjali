@@ -1,3 +1,2 @@
 # JS-Anjali
-Code repo for jJS
-Author Anjali
+Code repo for JS Author Anjali
